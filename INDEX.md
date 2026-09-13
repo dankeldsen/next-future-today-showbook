@@ -6,6 +6,7 @@ Older episodes (1-25) are being backfilled from show archives - the show launche
 
 | Ep | Title | Guest | Status | Notes |
 |---|---|---|---|---|
+| 34 | The Accidental Healthcare Policy Expert | Jeff Grant | published | [link](episodes/ep-034-jeff-grant.md) |
 | 33 | Building Trust While Moving Fast | Larry Gioia (PwC) | published | [link](episodes/ep-033-larry-gioia.md) |
 | 32 | Transforming Federal Agencies | May Cheng | published | [link](episodes/ep-032-may-cheng.md) |
 | 31 | Unlock the Power of AI w/InfoGov | Donda L. Young | published | [link](episodes/ep-031-donda-l-young.md) |
