@@ -1,6 +1,6 @@
 # Next Future Today - Show Book
 
-The public show book for **Next Future Today** - the biweekly video/audio podcast on agentic AI colliding with audit, risk, compliance, and regulated-enterprise buying. Hosted by [Dan Keldsen](https://linkedin.com/in/dankeldsen).
+The public show book for **Next Future Today** - the video and audio podcast on agentic AI colliding with audit, risk, compliance, and regulated-enterprise buying. Hosted and produced independently by [Dan Keldsen](https://linkedin.com/in/dankeldsen).
 
 "For future-facing leaders creating the future right now."
 
@@ -29,7 +29,7 @@ This repo is the production system behind the show: episode index, notes templat
 2. **Research** - guest research doc filled (see [guest-research template](templates/guest-research.md)): bio, recent work, prior interviews watched/read, the 3 questions nobody has asked them yet.
 3. **Prep** - prep sheet assembled (see [prep-sheet template](templates/prep-sheet.md)): cold open, question flow mapped to the research, the one takeaway the episode is built around.
 4. **Record** - video + audio, biweekly cadence.
-5. **Notes** - episode-notes file created in `episodes/` from the template: summary, guest links, key quotes, resources mentioned.
+5. **Notes** - episode-notes file created in `episodes/` from the template: summary, guest links, key quotes, resources mentioned. INDEX.md row updated.
 6. **Launch** - checklist run (see [launch-checklist template](templates/launch-checklist.md)): audio/video publish, notes published, guest promo kit, social posts.
 
 ## Notable guests so far
