@@ -26,7 +26,7 @@ Sources: [Season 1 YouTube playlist](https://www.youtube.com/playlist?list=PLDtM
 | 16 | Thriving from Anywhere | Ryan Anderson (VP Global Research & Insights, MillerKnoll) | 2024-01-08 | published | - |
 | 17 | AI for Radiology? | Dr. Jeff Chang (Co-founder, Rad AI) | 2024-01-23 | published | - |
 | 18 | Mind-Blowing Secrets of Fandom and Virtual Events | David Meerman Scott (Marketing strategist and author) | 2024-02-01 | published | - |
-| 19 | The Fight Between Your Ancient Brain and Your Modern Brain | Dr. Abbie Morano (Director of Training & Education, Social-Engineer LLC) | 2024-02-15 | published | [link](episodes/ep-019-the-fight-between-your-ancient-brain-and-your-modern-brain.md) |
+| 19 | The Fight Between Your Ancient Brain and Your Modern Brain | Dr. Abbie Maroño (Director of Training & Education, Social-Engineer LLC) | 2024-02-15 | published | [link](episodes/ep-019-the-fight-between-your-ancient-brain-and-your-modern-brain.md) |
 | 20 | The Magic of Conversational Presenting | Spencer Waldron (Presentation and communication expert) | 2024-03-01 | published | [link](episodes/ep-020-the-magic-of-conversational-presenting.md) |
 | 21 | You Aren't a Born Communicator | Matt Kohut (KNP Communications) | 2024-03-14 | published | [link](episodes/ep-021-born-communicator.md) |
 | 22 | Making a Career Out of Speechwriting and Ghostwriting | Michael Franklin (Founder, Speechwriters of Color) | 2024-03-26 | published | [link](episodes/ep-022-making-a-career-out-of-speechwriting-and-ghostwriting.md) |
