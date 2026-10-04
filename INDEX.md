@@ -2,7 +2,7 @@
 
 Status codes: `booked` / `recorded` / `published`. Notes links go live as each episode-notes file is added to `episodes/`.
 
-Sources: [Season 1 YouTube playlist](https://www.youtube.com/playlist?list=PLDtMUBhs5fVNaktdSGtzMzNQgTyLsQSyg), [current-episodes YouTube playlist](https://www.youtube.com/playlist?list=PLCSkAlf-WUvsW5D6U0E7Yl65YzXzWBk8V), [Apple Podcasts](https://podcasts.apple.com/us/podcast/next-future-today/id1598796906). Titles, guests, and release dates are verified against the audio feed's show notes and the YouTube uploads. Release dates are audio release dates; Eps. 35-37 use their YouTube upload dates. Ep. 38's date is still to be confirmed.
+Sources: [Season 1 YouTube playlist](https://www.youtube.com/playlist?list=PLDtMUBhs5fVNaktdSGtzMzNQgTyLsQSyg), [current-episodes YouTube playlist](https://www.youtube.com/playlist?list=PLCSkAlf-WUvsW5D6U0E7Yl65YzXzWBk8V), [Apple Podcasts](https://podcasts.apple.com/us/podcast/next-future-today/id1598796906). Titles, guests, and release dates are verified against the audio feed's show notes and the YouTube uploads. Release dates are audio release dates; Eps. 35-37 use their YouTube upload dates.
 
 ## Season 1
 
@@ -50,7 +50,7 @@ Sources: [Season 1 YouTube playlist](https://www.youtube.com/playlist?list=PLDtM
 | 35 | Federal Modernization Unlocked | Melvin Brown II (Former OPM CIO; VP of Growth, CANI) | 2026-09-26 | published | [link](episodes/ep-035-melvin-brown-ii.md) |
 | 36 | From Door-to-Door Sales to Space Rockets | JJ Dacanay (Strategic IT leader, formerly Blue Origin) | 2026-09-27 | published | [link](episodes/ep-036-jj-dacanay.md) |
 | 37 | Design for Privacy in the Age of AI | Robert Stribley (Author, Designing for Privacy) | 2026-09-28 | published | [link](episodes/ep-037-robert-stribley.md) |
-| 38 | Scaling Team Productivity: AI + Collaboration Tech | Wayne Kurtzman | TBC | published | [link](episodes/ep-038-wayne-kurtzman.md) |
+| 38 | Scaling Team Productivity: AI + Collaboration Tech | Wayne Kurtzman | 2026-07-08 | published | [link](episodes/ep-038-wayne-kurtzman.md) |
 
 ## Clips and shorts (not numbered episodes)
 
