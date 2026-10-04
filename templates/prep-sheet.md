@@ -34,7 +34,7 @@ Order matters: rapport first, depth in the middle, the big question when trust i
 
 ## Segment targets and timing
 
-- Total target: [55:00] (biweekly cadence)
+- Total target: [55:00]
 - Hard stops / timeboxed: ___
 - Buffer for overrun: cut [which segment] first
 

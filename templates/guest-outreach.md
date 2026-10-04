@@ -15,11 +15,11 @@ Booking flow and email templates. All templates assume a short, specific, resear
 
 Subject: Next Future Today - [one-word episode concept] on [topic]
 
-> [Name] - I host Next Future Today, a biweekly show on agentic AI meeting audit, risk, and compliance in regulated enterprises (33+ episodes; recent guests include a Forrester VP Principal Analyst on automation and the Acting CIO of the US International Trade Administration).
+> [Name] - I host Next Future Today, a video and audio show on agentic AI meeting audit, risk, and compliance in regulated enterprises (recent guests include a Forrester VP Principal Analyst on automation and the Acting CIO of the US International Trade Administration).
 >
 > Your [specific work - book/report/talk/post, named precisely] landed with me because [one honest sentence on why]. I'd love 45 minutes on the specific question of [episode thesis - not "your career"].
 >
-> Format: video + audio, biweekly release. You'll get the full promo kit (clips, quote cards, links) to use however you like.
+> Format: video + audio. You'll get the full promo kit (clips, quote cards, links) to use however you like.
 >
 > 20 minutes of your research time before we talk is all I ask - I'll come prepared.
 >

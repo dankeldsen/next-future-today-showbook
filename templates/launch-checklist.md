@@ -33,7 +33,7 @@ Run per episode, from recording done to two weeks post-launch. The episode isn't
 - [ ] Launch-day post: thesis + clip, not just "new episode"
 - [ ] Guest tagged on the platform(s) they actually use
 - [ ] Guest's organization tagged where appropriate
-- [ ] LinkedIn newsletter mention (biweekly cadence)
+- [ ] LinkedIn newsletter mention
 - [ ] 1-week follow-up post: the best quote as a pull-card
 - [ ] 2-week tie-in: connect episode thesis to the next episode's guest/topic
 

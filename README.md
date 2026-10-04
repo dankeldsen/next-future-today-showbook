@@ -28,7 +28,7 @@ This repo is the production system behind the show: episode index, notes templat
 1. **Book** - guest identified, outreach sent (see [guest-outreach template](templates/guest-outreach.md)), date confirmed.
 2. **Research** - guest research doc filled (see [guest-research template](templates/guest-research.md)): bio, recent work, prior interviews watched/read, the 3 questions nobody has asked them yet.
 3. **Prep** - prep sheet assembled (see [prep-sheet template](templates/prep-sheet.md)): cold open, question flow mapped to the research, the one takeaway the episode is built around.
-4. **Record** - video + audio, biweekly cadence.
+4. **Record** - video + audio.
 5. **Notes** - episode-notes file created in `episodes/` from the template: summary, guest links, key quotes, resources mentioned. INDEX.md row updated.
 6. **Launch** - checklist run (see [launch-checklist template](templates/launch-checklist.md)): audio/video publish, notes published, guest promo kit, social posts.
 
